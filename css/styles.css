@@ -25,6 +25,7 @@
 }
 .two{
     background-color: aqua;
+    align-self: flex-start;
 }
 .three, .four{
     width: 500px;
