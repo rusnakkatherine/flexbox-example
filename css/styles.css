@@ -1,0 +1,42 @@
+.h1{
+    text-align: center;
+}
+.block-1{
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+
+    
+}
+.box{
+    height: 300px;
+    margin: 10px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one, .two{
+    width: 300px;
+    
+}
+.one{
+    background-color: aquamarine;
+}
+.two{
+    background-color: aqua;
+}
+.three, .four{
+    width: 500px;
+}
+.three{
+    background-color: blue;
+}
+.four{
+    background-color: blueviolet;
+}
+p{
+    font-size: 100px;
+    
+}
+
